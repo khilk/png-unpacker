@@ -1,2 +1,3 @@
 # png-unpacker
-Unpack png files
+- Unpack png files
+- Fill array
